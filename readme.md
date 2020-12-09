@@ -1,9 +1,13 @@
+<p align="center"> Azure url: https://calm-hill-08c0c2f10.azurestaticapps.net/
+    <br> 
+</p>
+
 <p align="center">
   <a href="" rel="noopener">
  <img width=200px height=200px src="https://githubcampus.expert/assets/images/ce-flag.png" alt="Project logo"></a>
 </p>
 
-<h3 align="center">Vanilla JavaScript App</h3>
+<h3 align="center">Portafolio</h3>
 
 <div align="center">
 
@@ -14,7 +18,7 @@
 
 ---
 
-<p align="center"> Learn the skills to build and grow diverse technology communities on campus with training, mentorship, and support from GitHub.
+<p align="center"> Azure url: https://calm-hill-08c0c2f10.azurestaticapps.net/
     <br> 
 </p>
 
@@ -39,13 +43,16 @@ Crear un portafolio de evidencias
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See [deployment](#deployment) for notes on how to deploy the project on a live system.
 
 ### Prerequisites
-
-What things you need to install the software and how to install them.
-
-```
-Give examples
-```
-
+descargar e instalar
+Visual studio code
+https://code.visualstudio.com/
+descargar e instalar
+git
+https://git-scm.com/book/es/v2/Inicio---Sobre-el-Control-de-Versiones-Instalaci%C3%B3n-de-Git
+descargar e instalar bootstrap
+https://getbootstrap.com/
+cuenta gratuita en azure
+https://azure.microsoft.com/en-us/free/search/?&ef_id=Cj0KCQiA5bz-BRD-ARIsABjT4njn1a6YQDGOTcnBuKbHkimlKN2D6N6TL04B5b-l7dIGxkdvvgzSYG4aAj7KEALw_wcB:G:s&OCID=AID2100073_SEM_Cj0KCQiA5bz-BRD-ARIsABjT4njn1a6YQDGOTcnBuKbHkimlKN2D6N6TL04B5b-l7dIGxkdvvgzSYG4aAj7KEALw_wcB:G:s&dclid=CKek3dbUv-0CFZYdwQodYDEIUA
 ### Installing
 
 A step by step series of examples that tell you how to get a development env running.
@@ -94,10 +101,10 @@ Add additional notes about how to deploy this on a live system.
 
 ## ⛏️ Built Using <a name = "built_using"></a>
 
-- [MongoDB](https://www.mongodb.com/) - Database
-- [Express](https://expressjs.com/) - Server Framework
-- [VueJs](https://vuejs.org/) - Web Framework
-- [NodeJs](https://nodejs.org/en/) - Server Environment
+- [Visual Studio Code](https://code.visualstudio.com/) - IDE
+- [AzureStaticWebapp](https://portal.azure.com/) - web app
+- [Bootstrap](https://getbootstrap.com/) - Web Framework
+- [Github](https://github.com/) - repository
 
 ## ✍️ Authors <a name = "authors"></a>
 
@@ -107,6 +114,9 @@ See also the list of [contributors](https://github.com/kylelobo/The-Documentatio
 
 ## 🎉 Acknowledgements <a name = "acknowledgement"></a>
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- References
+- azure masive onlineclass
+
+<p align="center"> Azure url: https://calm-hill-08c0c2f10.azurestaticapps.net/
+    <br> 
+</p>
+
